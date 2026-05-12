@@ -1,0 +1,1 @@
+actua como administrador de base de datos de proyecto de restaurante italiano, qué entidades se necesitan para su gestión, las entidades con sus atributos y tipo de forma de tabla para cada una de las entidades y generar un script aparte en sql para descargar con el nombre "bdrestaurante.sql" para las entidades con sus relaciones
